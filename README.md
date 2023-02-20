@@ -25,8 +25,14 @@ To identify important features (attributes/columns in this dataset), useful for 
 * BMI came out to be one of the most important feature for determining risk.
 * Random Forest Classifier gave highest accuracy.
 
+![UI](Image/ImportantFeaturesByLogisticRegression.png?raw=true "ImportantFeaturesByLogisticRegression")
+
+![UI](Image/ImportantFeaturesByRandomForest.png?raw=true "ImportantFeaturesByRandomForest.png")
 
 # Accuracy
+
+![UI](Image/Accuracy.png?raw=true "Accuracy.png")
+
   
 # Additional Info
 * Uploaded python ipynb file in the repository.
